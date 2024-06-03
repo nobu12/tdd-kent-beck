@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cae76883-8064-4628-b440-3e0d51f23ead" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/money/Dollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/src/test/java/money/MoneyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="cae76883-8064-4628-b440-3e0d51f23ead" name="変更" comment="chapter1">
+      <change afterPath="$PROJECT_DIR$/chapter2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/money/Dollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/src/test/java/money/MoneyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,9 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2hL0Wlb5h51jJdw4vTIQ67McxDQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,6 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "code.cleanup.on.save": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "last_opened_file_path": "C:/work/intellij_work/tdd/chapter2",
     "project.structure.last.edited": "モジュール",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -67,7 +67,44 @@
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\intellij_work\tdd\chapter2" />
+      <recent name="C:\work\intellij_work\tdd\chapter2\src" />
+      <recent name="C:\work\intellij_work\tdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MoneyTest (1)">
+    <configuration name="MoneyTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter1 (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter1 (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter1" />
       <extension name="coverage">
@@ -83,8 +120,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoneyTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter1 (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testMultiplication" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoneyTest (1)" />
+        <item itemvalue="JUnit.MoneyTest (2)" />
+        <item itemvalue="JUnit.MoneyTest.testMultiplication" />
         <item itemvalue="JUnit.MoneyTest" />
       </list>
     </recent_temporary>
@@ -98,6 +154,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717358085884</updated>
     </task>
+    <task id="LOCAL-00001" summary="chapter1">
+      <option name="closed" value="true" />
+      <created>1717361833478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717361833478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter1" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter1" />
   </component>
 </project>
