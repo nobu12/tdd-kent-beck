@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cae76883-8064-4628-b440-3e0d51f23ead" name="変更" comment="chapter2">
-      <change afterPath="$PROJECT_DIR$/chapter3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/src/main/java/money/Dollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/src/test/java/money/MoneyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/money/Dollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/test/java/money/MoneyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -41,9 +41,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hL0Wlb5h51jJdw4vTIQ67McxDQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,7 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "code.cleanup.on.save": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "C:/work/intellij_work/tdd/chapter3",
+    "last_opened_file_path": "C:/work/intellij_work/tdd/chapter4",
     "project.structure.last.edited": "モジュール",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -75,7 +75,7 @@
       <recent name="C:\work\intellij_work\tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MoneyTest.testEquality">
+  <component name="RunManager" selected="JUnit.MoneyTest">
     <configuration name="MoneyTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter1 (2)" />
       <extension name="coverage">
@@ -107,7 +107,7 @@
       </method>
     </configuration>
     <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter1" />
+      <module name="chapter1 (4)" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="money.*" />
@@ -137,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter1 (2)" />
+    <configuration name="MoneyTest.testMultiplication (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter1 (4)" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="money.*" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoneyTest" />
+        <item itemvalue="JUnit.MoneyTest.testMultiplication (1)" />
         <item itemvalue="JUnit.MoneyTest.testEquality" />
         <item itemvalue="JUnit.MoneyTest (1)" />
         <item itemvalue="JUnit.MoneyTest (2)" />
-        <item itemvalue="JUnit.MoneyTest.testMultiplication" />
-        <item itemvalue="JUnit.MoneyTest" />
       </list>
     </recent_temporary>
   </component>
