@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cae76883-8064-4628-b440-3e0d51f23ead" name="変更" comment="chapter6">
-      <change afterPath="$PROJECT_DIR$/chapter7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/src/main/java/money/Dollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/src/main/java/money/Franc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/src/main/java/money/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/src/test/java/money/MoneyTest.java" afterDir="false" />
+    <list default="true" id="cae76883-8064-4628-b440-3e0d51f23ead" name="変更" comment="chapter7">
+      <change afterPath="$PROJECT_DIR$/chapter8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/main/java/money/Dollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/main/java/money/Franc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/main/java/money/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/test/java/money/MoneyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -61,7 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "code.cleanup.on.save": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "C:/work/intellij_work/tdd/chapter7",
+    "last_opened_file_path": "C:/work/intellij_work/tdd/chapter8",
     "project.structure.last.edited": "モジュール",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -71,32 +71,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\intellij_work\tdd\chapter8" />
       <recent name="C:\work\intellij_work\tdd\chapter7" />
       <recent name="C:\work\intellij_work\tdd\chapter6" />
       <recent name="C:\work\intellij_work\tdd\chapter5" />
       <recent name="C:\work\intellij_work\tdd\chapter4" />
-      <recent name="C:\work\intellij_work\tdd\chapter3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="money" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MoneyTest (3)">
-    <configuration name="MoneyTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter1 (5)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="money.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="money" />
-      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MoneyTest">
     <configuration name="MoneyTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter1 (6)" />
       <extension name="coverage">
@@ -128,7 +113,7 @@
       </method>
     </configuration>
     <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter1 (2)" />
+      <module name="chapter1 (8)" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="money.*" />
@@ -176,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoneyTest" />
         <item itemvalue="JUnit.MoneyTest (3)" />
         <item itemvalue="JUnit.MoneyTest.testEquality" />
         <item itemvalue="JUnit.MoneyTest (2)" />
         <item itemvalue="JUnit.MoneyTest.testEquality (1)" />
-        <item itemvalue="JUnit.MoneyTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717883968286</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="chapter7">
+      <option name="closed" value="true" />
+      <created>1717884417924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717884417924</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +262,7 @@
     <MESSAGE value="chapter4" />
     <MESSAGE value="chapter5" />
     <MESSAGE value="chapter6" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter6" />
+    <MESSAGE value="chapter7" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter7" />
   </component>
 </project>
